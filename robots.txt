@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-si7vut.yoursingles.online/sitemap.xml
